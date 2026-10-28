@@ -38,3 +38,10 @@ All responses use the format `{ success, message, data }`.
 
 ## Screenshots
 (add later)
+## Business Rules
+- Applied → Interview or Rejected
+- Interview → Offer or Rejected
+- Offer → Accepted or Declined
+- Rejected, Accepted and Declined are final
+- Interview and Offer applications cannot be deleted
+- Follow-up date is 7 days after the applied date
