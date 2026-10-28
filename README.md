@@ -37,7 +37,8 @@ Backend runs on http://localhost:5000 and frontend on http://localhost:5173.
 All responses use the format `{ success, message, data }`.
 
 ## Screenshots
-(add later)
+![Home](screenshots/home.png)
+![Details](screenshots/details.png)
 ## Business Rules
 - Applied → Interview or Rejected
 - Interview → Offer or Rejected
